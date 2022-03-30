@@ -1,0 +1,25 @@
+{
+  "url": "/api",
+  "query": {},
+  "headers": {
+    "host": "next-proxy.vercel.app",
+    "x-real-ip": "3.90.62.14",
+    "connection": "close",
+    "x-vercel-deployment-url": "next-proxy-4d37fbjo5-anselbrandt.vercel.app",
+    "x-vercel-forwarded-for": "3.90.62.14",
+    "x-vercel-id": "iad1::dwdrf-1648602431567-fb46bbd16fea",
+    "x-matched-path": "/api",
+    "x-forwarded-host": "next-proxy.vercel.app",
+    "accept": "*/*",
+    "forwarded": "for=3.90.62.14;host=next-proxy.vercel.app;proto=https;sig=0QmVhcmVyIDVhMzY2M2YzYTI5MjQ5NjMzYjNjOTNmYTE2OWFhMTIzNmI5MTUwYjlhOTE2MWVmNzIwYWJjNzIyYTYxMGNjNTU=;exp=1648602731",
+    "x-vercel-ip-country": "US",
+    "x-forwarded-proto": "https",
+    "x-vercel-proxy-signature": "Bearer 5a3663f3a29249633b3c93fa169aa1236b9150b9a9161ef720abc722a610cc55",
+    "x-forwarded-for": "3.90.62.14",
+    "user-agent": "node-fetch",
+    "x-vercel-proxy-signature-ts": "1648602731",
+    "x-vercel-ip-city": "Ashburn",
+    "accept-encoding": "gzip,deflate,br",
+    "x-vercel-ip-country-region": "VA"
+  }
+}
