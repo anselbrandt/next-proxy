@@ -1,0 +1,26 @@
+{
+  "url": "/api",
+  "query": {},
+  "headers": {
+    "host": "next-proxy.vercel.app",
+    "x-real-ip": "198.48.201.177",
+    "x-vercel-proxy-signature-ts": "1648602581",
+    "x-vercel-deployment-url": "next-proxy-nadia1urr-anselbrandt.vercel.app",
+    "x-vercel-forwarded-for": "198.48.201.177",
+    "x-vercel-id": "iad1::rx5rn-1648602281161-104d2bf6308a",
+    "x-matched-path": "/api",
+    "x-forwarded-host": "next-proxy.vercel.app",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "forwarded": "for=198.48.201.177;host=next-proxy.vercel.app;proto=https;sig=0QmVhcmVyIDI5NDE2ZTIwMjJiODdkYjVmM2QzZjlkMzcxODVkOWFlYjE5YjI2YzgyMTUyYjNkMzExNzk0YmQwNGZmMDY0M2Q=;exp=1648602581",
+    "x-vercel-ip-country": "CA",
+    "x-forwarded-proto": "https",
+    "x-vercel-proxy-signature": "Bearer 29416e2022b87db5f3d3f9d37185d9aeb19b26c82152b3d311794bd04ff0643d",
+    "x-forwarded-for": "198.48.201.177",
+    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15",
+    "accept-encoding": "gzip, deflate, br",
+    "x-vercel-ip-city": "Montreal",
+    "accept-language": "en-CA,en-US;q=0.9,en;q=0.8",
+    "x-vercel-ip-country-region": "QC",
+    "connection": "close"
+  }
+}

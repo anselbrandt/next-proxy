@@ -3,7 +3,7 @@ import fetch from "node-fetch";
 
 async function proxyRoute(req: NextApiRequest, res: NextApiResponse) {
   try {
-    const response = await fetch("http://localhost:3000/api", {
+    const response = await fetch("https://next-proxy.vercel.app/api", {
       method: req.method,
       body: req.method !== "GET" && req.method !== "HEAD" ? req : undefined,
     });
